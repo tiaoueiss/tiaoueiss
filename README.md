@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @tiaoueiss
-- 👀 I’m interested in programming.
-- 🌱 I’m currently learning Java, HTML, CSS, and Javascript.
 - 📫 How to reach me: by email.
 - 😄 Pronouns: she/her
 
