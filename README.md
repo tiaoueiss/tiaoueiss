@@ -1,51 +1,58 @@
 # 👋 Hi, I’m Tia Maria Oueiss
 
-Senior Computer Science student focused on software engineering, backend systems, and intelligent data driven applications.
+Senior Computer Science student focused on building scalable, well-structured software systems.
+I am particularly interested in backend architecture, full stack development, data science and applied AI.
 
-I enjoy building complete systems, from designing application logic and APIs to working with databases, data processing, and exploring how AI can enhance real world solutions.
+---
 
-## 🚀 What I Work On
+## 🧠 Engineering Focus
 
-### 🧠 Software Engineering and Systems
-- Building structured, maintainable applications
-- Designing backend logic and system components
-- Developing RESTful APIs and backend services
-- Applying clean code principles and architectural thinking
+### Software Engineering
+- Designing modular, maintainable systems using clean architecture principles
+- Building RESTful APIs and backend services using Express and Spring Boot
+- Applying OOP, data structures, and algorithmic thinking to real applications
+- Understanding system design fundamentals including scalability and reliability
 
-### 🗄️ Databases and Data Management
+### Data & Persistence
+- Designing relational schemas and enforcing data integrity
 - Writing optimized SQL queries
-- Working with MySQL
-- Using ORM concepts and Hibernate
-- Designing relational schemas and managing structured data
+- Working with MySQL and ORM frameworks such as Hibernate
+- Managing structured data pipelines and transformations
 
-### 📊 Data and AI
-- Data processing using Python, pandas, and PySpark
-- Building and evaluating machine learning models with scikit learn
-- Exploring intelligent systems and applied machine learning
+### Data & Intelligent Systems
+- Data processing with Python, pandas, and PySpark
+- Implementing and evaluating machine learning models using scikit learn
+- Exploring intelligent systems that integrate data driven decision making
 
-## 🛠️ Technical Skills
+### Frontend & Full Stack
+- Building responsive interfaces using React
+- Managing state and component architecture in modern frontend applications
+- Connecting frontend applications to backend APIs with proper data flow
 
-**Languages:** Java, Python, C++, SQL, JavaScript
+---
 
-**Backend and Systems:** Express.js, Spring Boot, REST APIs, Postman
+## 🛠 Technical Stack
+**Languages:** Java, Python, C++, SQL, JavaScript  
+**Backend:** Express.js, Spring Boot, REST APIs, Postman  
+**Databases:** MySQL, Hibernate, ORM  
+**Frontend:** React, HTML, CSS, JavaScript  
+**Data & ML:** pandas, PySpark, scikit learn  
 
-**Databases:** MySQL, Hibernate, ORM
-
-**Data and ML:** pandas, PySpark, scikit learn, Palantir Foundry
-
-**Frontend:** HTML, CSS, JavaScript, React
+---
 
 ## 🌱 Currently Exploring
-- Becoming a strong full stack developer
-- Deepening my knowledge of React for modern frontend development
-- Strengthening backend architecture skills with Express and Spring Boot
-- Building and experimenting with an AI based project
-- Designing production ready applications end to end
 
-## 🎯 Interests
-- Scalable system design
+- Strengthening full stack system design from database to UI
+- Building an AI driven application
+- Writing production ready, testable, scalable code
+
+---
+
+## 🎯 Areas of Interest
+
+- Scalable system architecture
 - Intelligent software systems
-- Data driven architectures
-- Full stack application development
-
+- Data driven engineering
+- End to end application development
+---
 📫 **Email:** oueisstiamaria@gmail.com
