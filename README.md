@@ -1,7 +1,7 @@
-# 👋 Hi, I’m Tia Maria Oueiss
+# 👋 Hi, I'm Tia Maria Oueis
 
 Senior Computer Science student focused on building scalable, well-structured software systems.
-I am particularly interested in backend architecture, full stack development, data science and applied AI.
+I am particularly interested in backend architecture, full-stack development, data science, and applied AI.
 
 ---
 
@@ -21,8 +21,8 @@ I am particularly interested in backend architecture, full stack development, da
 
 ### Data & Intelligent Systems
 - Data processing with Python, pandas, and PySpark
-- Implementing and evaluating machine learning models using scikit learn
-- Exploring intelligent systems that integrate data driven decision making
+- Implementing and evaluating machine learning models using scikit-learn
+- Exploring intelligent systems that integrate data-driven decision-making
 
 ### Frontend & Full Stack
 - Building responsive interfaces using React
@@ -32,27 +32,28 @@ I am particularly interested in backend architecture, full stack development, da
 ---
 
 ## 🛠 Technical Stack
+
 **Languages:** Java, Python, C++, SQL, JavaScript  
 **Backend:** Express.js, Spring Boot, REST APIs, Postman  
 **Databases:** MySQL, Hibernate, ORM  
 **Frontend:** React, HTML, CSS, JavaScript  
-**Data & ML:** pandas, PySpark, scikit learn  
+**Data & ML:** pandas, PySpark, scikit-learn  
 
 ---
 
 ## 🌱 Currently Exploring
-
-- Strengthening full stack system design from database to UI
-- Building an AI driven application
-- Writing production ready, testable, scalable code
+- Strengthening full-stack system design from database to UI
+- Building an AI-driven application
+- Writing production-ready, testable, scalable code
 
 ---
 
 ## 🎯 Areas of Interest
-
 - Scalable system architecture
 - Intelligent software systems
-- Data driven engineering
-- End to end application development
+- Data-driven engineering
+- End-to-end application development
+
 ---
+
 📫 **Email:** oueisstiamaria@gmail.com
